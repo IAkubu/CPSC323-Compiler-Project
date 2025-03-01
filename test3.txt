@@ -1,0 +1,6 @@
+int main()
+{
+    int firstInt = 0;   
+    char myChar2;       
+    return 0;           
+}
